@@ -3,9 +3,14 @@ PlayerPath?
 C:/Users/D/Desktop/fightclub.apk
 SceneListBegin?
 Assets/Scenes/Menu.unity
-Assets/Scenes/LeftUDT-TEMPLATE.unity
+Assets/Scenes/Story.unity
+Assets/Scenes/Story 1.unity
 Assets/Scenes/LeftUDT-TEMPLATE 1.unity
+Assets/Scenes/Story 2.unity
 Assets/Scenes/LeftUDT-TEMPLATE 2.unity
+Assets/Scenes/Story 3.unity
+Assets/Scenes/LeftUDT-TEMPLATE.unity
+Assets/Scenes/Story 4.unity
 Assets/Scenes/LeftUDT-TEMPLATE 3.unity
 SceneListEnd?
 410153df6407a5a123cf4dcd4ccb7de8 Unity.Postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.PostProcessLayer
@@ -135,6 +140,7 @@ fa89f813ce8b25711001690fee6808d5 Assembly-CSharp.dll:.SceneOrientation
 0a006f3734181ba8b26758f0866152c0 UnityEngine.SpatialTracking.dll:UnityEngine.SpatialTracking.TrackedPoseDriver
 fbdfbfe622ae198366c72063f1bf136a Assembly-CSharp.dll:.CloudContentManager
 486cd95c82d8305219c352c06b776e1f VuforiaScripts.dll:.DefaultInitializationErrorHandler
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.utilsNonStatic
 989016905eec43638af20d55ffda4584 Assembly-CSharp.dll:.StoryLineSceneManager
 29dfdd198d9d2fe5d145e1c762b97f3d Assembly-CSharp.dll:.VuMarkHandler
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.EnemyCollision
