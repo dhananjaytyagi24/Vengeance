@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/LeftUDT-TEMPLATE 3.unity
+- path: Assets/Scenes/LeftUDT-TEMPLATE 1.unity
   isLoaded: 1
   isActive: 1

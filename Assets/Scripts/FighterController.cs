@@ -8,7 +8,7 @@ using UnityEngine.UI;
 public class FighterController : MonoBehaviour {
     public Transform enemyTarget;
 
-    static Animator anim;
+    public static Animator anim;
     public static bool mvBack = false;
     public static bool mvFwd = false;
     public static FighterController instance;

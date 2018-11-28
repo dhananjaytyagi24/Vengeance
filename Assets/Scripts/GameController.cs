@@ -118,6 +118,9 @@ public class GameController : MonoBehaviour {
 
 
     }
+    public void next() {
+        Utils.loadNextScene();
+    }
     IEnumerator reloadGame()
     {
         yield return new WaitForSeconds(1f);

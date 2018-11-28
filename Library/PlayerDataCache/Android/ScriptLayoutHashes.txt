@@ -1,7 +1,11 @@
 Android
 PlayerPath?
-C:/Users/D/Desktop/erica.apk
+C:/Users/D/Desktop/fightclub.apk
 SceneListBegin?
+Assets/Scenes/Menu.unity
+Assets/Scenes/LeftUDT-TEMPLATE.unity
+Assets/Scenes/LeftUDT-TEMPLATE 1.unity
+Assets/Scenes/LeftUDT-TEMPLATE 2.unity
 Assets/Scenes/LeftUDT-TEMPLATE 3.unity
 SceneListEnd?
 410153df6407a5a123cf4dcd4ccb7de8 Unity.Postprocessing.Runtime.dll:UnityEngine.Rendering.PostProcessing.PostProcessLayer

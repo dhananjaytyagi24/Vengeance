@@ -123,6 +123,7 @@
     <Compile Include="Assets\Scripts\GameController.cs" />
     <Compile Include="Assets\Scripts\playerCollision.cs" />
     <Compile Include="Assets\Scripts\Utils.cs" />
+    <Compile Include="Assets\Scripts\utilsNonStatic.cs" />
     <Compile Include="Assets\Scripts\WalkBackwardController.cs" />
     <Compile Include="Assets\Scripts\WalkForwardController.cs" />
     <Compile Include="Assets\Shared\Ramps\Runtime\RampAsset.cs" />

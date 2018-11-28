@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class EnemyController : MonoBehaviour {
     public Transform playerTransform;
     private Vector3 direction;
-    static Animator anim2;
+    public static Animator anim2;
     public int enemyHealth = 100;
     public static EnemyController instance;
     public Slider enemyHB;
