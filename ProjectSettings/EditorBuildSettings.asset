@@ -8,9 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 0d4c295748e8fca4280499d7a347c1ac
-  - enabled: 0
-    path: Assets/Scenes/RightUDT-TEMPLATE.unity
-    guid: b157a315f2480914face3aaae17172ea
   - enabled: 1
     path: Assets/Scenes/Story.unity
     guid: e94241e80c4eb51429aee6618a45ef39
@@ -18,24 +15,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Story 1.unity
     guid: 2c99f1b0b8589604a99c349c1b7e4a50
   - enabled: 1
-    path: Assets/Scenes/LeftUDT-TEMPLATE 1.unity
-    guid: ebf47ff1dc7c72b48b1f92d62db9657a
-  - enabled: 1
     path: Assets/Scenes/Story 2.unity
     guid: 0dadd2a4d29b8a1478291a233495ca24
   - enabled: 1
-    path: Assets/Scenes/LeftUDT-TEMPLATE 2.unity
+    path: Assets/Scenes/LeftLevel2.unity
     guid: 92bdbaee09f09cb44a466be16270fb28
   - enabled: 1
     path: Assets/Scenes/Story 3.unity
     guid: 9a5bff6ce7dc7b644a9e7f964a854640
   - enabled: 1
-    path: Assets/Scenes/LeftUDT-TEMPLATE.unity
+    path: Assets/Scenes/LeftLevel3.unity
     guid: ddead23f6b21a6445a3f312495d91fb1
   - enabled: 1
     path: Assets/Scenes/Story 4.unity
     guid: 33a952189ffa28c48b6e6258563a36a8
   - enabled: 1
-    path: Assets/Scenes/LeftUDT-TEMPLATE 3.unity
+    path: Assets/Scenes/LeftLevel4.unity
     guid: d9a5f2bb242d53f4c99102fee7732eb0
   m_configObjects: {}
