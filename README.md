@@ -7,6 +7,7 @@ The link for the trailer video can be found at: https://www.youtube.com/watch?v=
 The link for the website can be found at: http://www-scf.usc.edu/~akashdee/vengeance/
 
 
+![csci538_poster](https://user-images.githubusercontent.com/38570609/49991410-d368a400-ff35-11e8-9e9d-204514ad2daf.jpg)
 ![image1](https://user-images.githubusercontent.com/38570609/49990411-66074400-ff32-11e8-842d-99bafdc5ca5e.jpg)
 ![image2](https://user-images.githubusercontent.com/38570609/49990412-66074400-ff32-11e8-947b-d4eee749b039.jpg)
 ![image3](https://user-images.githubusercontent.com/38570609/49990413-66074400-ff32-11e8-8d9c-f971b38bc42b.jpg)
